@@ -1,0 +1,10 @@
+C:\Users\nn137422\Documents\Visual Basic\Rock Paper Scissors\Rock Paper Scissors\bin\Debug\Rock Paper Scissors.exe.config
+C:\Users\nn137422\Documents\Visual Basic\Rock Paper Scissors\Rock Paper Scissors\obj\Debug\Rock_Paper_Scissors.Form1.resources
+C:\Users\nn137422\Documents\Visual Basic\Rock Paper Scissors\Rock Paper Scissors\obj\Debug\Rock_Paper_Scissors.Resources.resources
+C:\Users\nn137422\Documents\Visual Basic\Rock Paper Scissors\Rock Paper Scissors\obj\Debug\Rock Paper Scissors.vbproj.GenerateResource.Cache
+C:\Users\nn137422\Documents\Visual Basic\Rock Paper Scissors\Rock Paper Scissors\bin\Debug\Rock Paper Scissors.exe
+C:\Users\nn137422\Documents\Visual Basic\Rock Paper Scissors\Rock Paper Scissors\bin\Debug\Rock Paper Scissors.pdb
+C:\Users\nn137422\Documents\Visual Basic\Rock Paper Scissors\Rock Paper Scissors\bin\Debug\Rock Paper Scissors.xml
+C:\Users\nn137422\Documents\Visual Basic\Rock Paper Scissors\Rock Paper Scissors\obj\Debug\Rock Paper Scissors.exe
+C:\Users\nn137422\Documents\Visual Basic\Rock Paper Scissors\Rock Paper Scissors\obj\Debug\Rock Paper Scissors.xml
+C:\Users\nn137422\Documents\Visual Basic\Rock Paper Scissors\Rock Paper Scissors\obj\Debug\Rock Paper Scissors.pdb
